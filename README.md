@@ -13,9 +13,9 @@
 <p><em>Software Enginner at <a href="https://www.hti.edu.eg/">HTI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/MrHarvv?style=social)]([https://x.com/MrHarvv])
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-mohamed-osama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-osama-074bb42b4/)](https://www.linkedin.com/in/mohamed-osama-074bb42b4/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/MrPhoenixPhilanthropy?label=follow&style=social)](https://github.com/MrPhoenixPhilanthropy)
+[![Twitter: MrHarvv](https://img.shields.io/twitter/follow/MrHarvv?style=social)](https://x.com/MrHarvv)
+[![Linkedin: mohamed-osama](https://img.shields.io/badge/-mohamed-osama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-osama-074bb42b4/)](https://www.linkedin.com/in/mohamed-osama-074bb42b4/)
+[![GitHub MrPhoenixPhilanthropy](https://img.shields.io/github/followers/MrPhoenixPhilanthropy?label=follow&style=social)](https://github.com/MrPhoenixPhilanthropy)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
