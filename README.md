@@ -6,8 +6,7 @@
 
 - ⚙️ I use daily: `numpy`, `pandas`, `matplotlib`, `seaborn`, `sklearn`, `tensorflow`, `pytorch`
 - 🌍 I'm mostly active within the **machine learning Community**
-
-- 
+- my graduation project https://doi.org/10.1016/j.comcom.2021.04.029
 
 <p><em>Software Enginner at <a href="https://www.hti.edu.eg/">HTI</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="60">
 </em></p>
