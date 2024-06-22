@@ -13,8 +13,8 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)]([https://x.com/MrHarvv])
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-osama-074bb42b4/)](https://www.linkedin.com/in/mohamed-osama-074bb42b4/)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/MrHarvv?style=social)]([https://x.com/MrHarvv])
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-mohamed-osama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-osama-074bb42b4/)](https://www.linkedin.com/in/mohamed-osama-074bb42b4/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/MrPhoenixPhilanthropy?label=follow&style=social)](https://github.com/MrPhoenixPhilanthropy)
 
 
